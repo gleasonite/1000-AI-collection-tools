@@ -967,6 +967,7 @@ TTSMaker is an online text-to-speech tool that can convert text to audio, and yo
 | [PatternedAI](http://www.patterned.ai) | Patternai. | . | :grey_question: |
 | [Peppertype.ai](http://www.peppertype.ai) | Peppertype.Ai - Create Quality Content Faster. | Generate content that converts in seconds. | :grey_question: |
 | [PersonaCardAI](http://www.personacardai.com) | Personacardai - Find Your Top 3 Personas Profiles. | Stop spending hours in workshops to try to find your personas. Our AI reveals your top 3 personas profiles within your CRM with 20+ attributes. | :grey_question: |
+| [Pet Booth](http://petbooth.app) | Pet Booth. | Pet Booth is a service for creating your own AI Pet Portraits, Artwork, and Photos. | :grey_question: |
 | [Petpic](http://www.petpic.ai) | Petpic.Ai. | Your favorite animal can now be anything, anywhere, even anyone. Just upload some pics and let AI do its creative magic ð«. | :grey_question: |
 | [Petportrait](http://petportrait.ai) | Pet Portrait AI - Beautiful Custom Pet Portraits. | Looking for a thoughtful pet gift? Pet Portrait AI generates unique, custom-made portraits of your cats, dogs, and other pets in a variety of styles. Our AI technology ensures that each portrait is one-of-a-kind, just like your pet. | :grey_question: |
 | [Pfpmaker](http://pfpmaker.com) | Free Profile Picture Maker - Create an Awesome PFP Online. | Upload your photo to create a professional-looking profile picture and a matching background cover. | :white_check_mark: |
